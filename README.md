@@ -1,2 +1,2 @@
-# jsquared
-Learning Repository
+# singlepagewebsite
+Single Page Website Project
